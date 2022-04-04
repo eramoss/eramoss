@@ -2,7 +2,7 @@
 - i'm brazilian and data science student 
 - im here for post projets and see many codes for inspiration 
 - my social midia ↓
-- linkdin www.linkedin.com/in/eduardolramos
+- linkedin www.linkedin.com/in/eduardolramos
 - instagram @ramos_again
 
 
